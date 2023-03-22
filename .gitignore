@@ -26,3 +26,4 @@ build/
 # Logs and caches
 *.log
 *.swp
+node_modules
